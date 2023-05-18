@@ -1,4 +1,4 @@
-# reviver
+# Reviver Script
 This Resource allows to revive a radius. Every death player in this radius get revived
 
 ## Use the Script
