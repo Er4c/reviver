@@ -1,6 +1,7 @@
 # Reviver Script
 This Resource allows to revive a radius. Every death player in this radius get revived
-
+##UPDATE
+NEW UPDATE SINCE 21.05.2023 18:17
 ## Use the Script
 Open the chat and enter /reviver <Radius> 
 <Radius> its the radius where every death player gets revived.
